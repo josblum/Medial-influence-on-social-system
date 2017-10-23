@@ -1,7 +1,7 @@
 # MATLAB Fall 2014 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: CreativeGroupName (be creative!)
+> * Group Name: Untitled-1
 > * Group participants names: Blum Josef; Kazakov Dmitry; Machacek David; Martin Kevin (alphabetically sorted by last name)
 > * Project Title: Spread of fake news in modern world (can be changed later)
 
