@@ -34,7 +34,7 @@ set(hLines,'color','k');
 
 
 hold on;
-kv=full(diag(G.network*G.network));
+kv=(diag(G.network*G.network'));
 kvGroups=unique(setdiff(kv,0));
 nGroups=length(kvGroups);
 map=jet(max(kvGroups)); 
