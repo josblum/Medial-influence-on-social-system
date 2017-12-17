@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.21)  17 DEC 2017 10:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.21)  17 DEC 2017 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -554,48 +554,48 @@ Missing character: There is no ˜ in font cmti12!
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no ™ in font cmti12!
-[15] <Graphs/DecOrginiality.pdf, id=70, 597.23125pt x 844.15375pt>
+[15] <Graphs/DecOrginiality.pdf, id=70, 597.51233pt x 845.0471pt>
 File: Graphs/DecOrginiality.pdf Graphic file (type pdf)
 
 <use Graphs/DecOrginiality.pdf>
 Package pdftex.def Info: Graphs/DecOrginiality.pdf used on input line 324.
-(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 File: Graphs/DecOrginiality.pdf Graphic file (type pdf)
  <use Graphs/DecOrginiality.pdf>
 Package pdftex.def Info: Graphs/DecOrginiality.pdf used on input line 324.
-(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<Graphs/DecOrginiality.pdf, id=73, page=1, 597.23125pt x 844.15375pt>
+<Graphs/DecOrginiality.pdf, id=73, page=1, 597.51233pt x 845.0471pt>
 File: Graphs/DecOrginiality.pdf Graphic file (type pdf)
 
 <use Graphs/DecOrginiality.pdf, page 1>
 Package pdftex.def Info: Graphs/DecOrginiality.pdf, page1 used on input line 32
 4.
-(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 File: Graphs/DecOrginiality.pdf Graphic file (type pdf)
 
 <use Graphs/DecOrginiality.pdf, page 1>
 Package pdftex.def Info: Graphs/DecOrginiality.pdf, page1 used on input line 32
 4.
-(pdftex.def)             Requested size: 597.33002pt x 844.29337pt.
+(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 File: Graphs/DecOrginiality.pdf Graphic file (type pdf)
 
 <use Graphs/DecOrginiality.pdf, page 1>
 Package pdftex.def Info: Graphs/DecOrginiality.pdf, page1 used on input line 32
 4.
-(pdftex.def)             Requested size: 597.33002pt x 844.29337pt.
+(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 File: Graphs/DecOrginiality.pdf Graphic file (type pdf)
 
 <use Graphs/DecOrginiality.pdf, page 1>
 Package pdftex.def Info: Graphs/DecOrginiality.pdf, page1 used on input line 32
 4.
-(pdftex.def)             Requested size: 597.33002pt x 844.29337pt.
+(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 File: Graphs/DecOrginiality.pdf Graphic file (type pdf)
 
 <use Graphs/DecOrginiality.pdf, page 1>
 Package pdftex.def Info: Graphs/DecOrginiality.pdf, page1 used on input line 32
 4.
-(pdftex.def)             Requested size: 597.33002pt x 844.29337pt.
+(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
  [16 <./Graphs/DecOrginiality.pdf>]
 (./reportTemplate.aux) ) 
 Here is how much of TeX's memory you used:
@@ -616,10 +616,10 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on reportTemplate.pdf (16 pages, 1529819 bytes).
+Output written on reportTemplate.pdf (16 pages, 1153818 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
